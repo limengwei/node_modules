@@ -2,7 +2,9 @@
 node_modules
 
 #node for ubuntu 软件源
+```sh
 deb https://deb.nodesource.com/node_6.x xenial main
+```
 
 #redis 下载，解压，编译
 ```sh
